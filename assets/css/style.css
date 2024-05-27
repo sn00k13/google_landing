@@ -91,7 +91,7 @@ img{
     /* opacity: 0.5; */
 }
 input{
-    /* all: unset; */
+    all: unset;
     height: 30px;
     border-radius: 15px;
     border: none;
